@@ -1,0 +1,17 @@
+{
+  "name": "@udock/vue-plugin-ui--animation",
+  "description": "@udock/vue-plugin-ui--animation",
+  "private": true,
+  "version": "0.0.1",
+  "files": [
+    "index.js",
+    "dist",
+    "src/scss"
+  ],
+  "scripts": {
+    "build": "@udock/build-tools sass"
+  },
+  "devDependencies": {
+    "@udock/build-tools": "^0.0.1"
+  }
+}
